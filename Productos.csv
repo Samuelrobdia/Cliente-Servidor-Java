@@ -1,0 +1,7 @@
+id,nombre,cantidad,precio,descripcion,disponible
+01,Botella de agua,10,1.25,Awita refrescante,True
+02,Pelota,0,70.5,SUUU,False
+03,Raqueta,1,20,Raqueta de Angel,True
+04,Cuernos de elefantes,0,500,Rey,False
+05,Peluche,10,20,Peluche de Isma,True
+06,Colonia,30,50,Paco Ravanne,True
